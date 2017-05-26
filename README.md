@@ -21,9 +21,6 @@ All files for usage are in the /dist directory.
 - **Original Blend**:
   - phone-format.js or phone-format.min.js
 
-## DEMO
-[PhoneFormat.com](http://www.phoneformat.com)
-
 ## API
 
 | Function                     	| Parameters                                 	| Example                                                                  	|   	|   	|
@@ -67,11 +64,10 @@ If this is causing you any headaches, please follow the instructions below to up
 
   * Step 4
 
-    * Update these files accordingly:
-        * lib/google-libraries.js
-        * lib/phone-format-interface.js
-    * Use Grunt to re-pack files
-    * Submit a PR ;)
+    * Update `lib/google-libraries.js` with the compiled libraries from the compiler service.
+    * Run `npm run build`
+    * Commit your change, push it up and submit a pull request.
+    * Thank you!
 
 ## Questions?
 
