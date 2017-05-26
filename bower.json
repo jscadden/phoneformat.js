@@ -1,8 +1,8 @@
 {
   "name": "phoneformat",
   "main": "./dist/phone-format.js",
-  "version": "1.0.6",
-  "homepage": "https://github.com/albeebe/phoneformat.js",
+  "version": "1.0.7",
+  "homepage": "https://github.com/jscadden/phoneformat.js",
   "authors": [
     "Al Cheetah",
     "Matti Salokangas <matti.salokangas@gmail.com>"
