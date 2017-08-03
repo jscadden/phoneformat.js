@@ -1,6 +1,6 @@
 {
   "name": "phoneformat.js",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "main": "dist/phone-format-exports.js",
   "devDependencies": {
     "grunt": "^0.4.5",
