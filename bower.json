@@ -1,7 +1,7 @@
 {
   "name": "phoneformat",
   "main": "./dist/phone-format.js",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "homepage": "https://github.com/jscadden/phoneformat.js",
   "authors": [
     "Al Cheetah",
